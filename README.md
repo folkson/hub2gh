@@ -14,7 +14,7 @@
 1. 点击此链接进入 GitHub 的导入页面：[GitHub 导入页面](https://github.com/new/import)
 2. 在 "Your old repository’s clone URL" 一栏中输入：  
    ```
-   https://github.com/foss-android/dockerhub2ghcr.io.git
+   https://github.com/lmtudio/dockerhub2ghcr.io.git
    ```
 3. 根据提示完成项目导入。
 
